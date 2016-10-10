@@ -238,7 +238,17 @@ function create_config( )
     },
     sudo_users = {255872558,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
+    about_text = [[🌐 idev Bot 🌐
+An advanced administration bot based on TeleSeed written in Lua
+🔰 Github 🔰
+Open Source Soon...
+♨️ Global Admins Of Tabar Bot : ♨️
+🌀 @FUCKUP [Founder]
+🌀 @typerredteam [Developer]
+⭕️ Special thanks to
+SEEDTEAM
+💢 Our Channel : 💢
+📡 @wasteTG
 ]],
     help_text_realm = [[
 ]],
