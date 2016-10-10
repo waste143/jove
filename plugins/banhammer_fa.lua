@@ -445,7 +445,7 @@ if matches[1]:lower() == 'انبن' then-- /ban
 		local receiver = get_receiver(msg)
         savelog(msg.to.id, name.." ["..msg.from.id.."] unbanedall user ".. matches[2])
         unbanall_user(matches[2])
-		send_large_msg(receiver, '💠کاربر ['..matches[2]..'] درژوپیتر ازگولبال بن ازادشد💠')
+		send_large_msg(receiver, '💠کاربر ['..matches[2]..'] درایران گارد ازگولبال بن ازادشد💠')
       else
 		local cbres_extra = {
 		chat_id = msg.to.id,
