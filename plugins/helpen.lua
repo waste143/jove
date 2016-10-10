@@ -13,7 +13,7 @@ do
 
 function run(msg, matches)
   return [[ 
-💠Jove English Help V4.0💠
+💠iran Guard English Help V4.0💠
 
 🔆Customization SuperGroup:🔆
 💭lock
@@ -69,8 +69,8 @@ function run(msg, matches)
 🔏setlink
 🏳link
 〰〰〰〰〰〰〰
-☑️ #Jove V4.0
-💠Titan Zeus💠
+☑️ #iranGuard V4.0
+💠masih malakooti💠
 ]]
 end
 
