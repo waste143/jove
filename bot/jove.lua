@@ -242,13 +242,13 @@ function create_config( )
 An advanced administration bot based on TeleSeed written in Lua
 🔰 Github 🔰
 Open Source Soon...
-♨️ Global Admins Of Tabar Bot : ♨️
+♨️ Global Admins Of iDev Bot : ♨️
 🌀 @FUCKUP [Founder]
-🌀 @typerredteam [Developer]
+🌀 @MRmamshotakam [Developer]
 ⭕️ Special thanks to
 SEEDTEAM
 💢 Our Channel : 💢
-📡 @wasteTG
+📡 @iDevCh
 ]],
     help_text_realm = [[
 ]],
